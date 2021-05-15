@@ -20,7 +20,7 @@ title                    : "JaeHyeon-Chung's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "JaeHyeon Chung 2017250044"
-description              : "An amazing website."
+description              : "정재현"
 url                      : "https://g202jh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
