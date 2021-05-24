@@ -1,3 +1,9 @@
+
+---
+layout: post
+title: "2020년 기준 1인당 GDP와 삶의 만족도 관계 선형 분석"
+---
+
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
     TeX: {
@@ -21,11 +27,6 @@ MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
-
----
-layout: post
-title: "2020년 기준 1인당 GDP와 삶의 만족도 관계 선형 분석"
----
 
 * 다뤄야 할 데이터: 2020년 기준 1인당 GDP와 국가별 삶의 만족도
 
