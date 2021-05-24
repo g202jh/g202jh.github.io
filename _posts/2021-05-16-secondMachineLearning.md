@@ -4,30 +4,6 @@ layout: post
 title: "2020년 기준 1인당 GDP와 삶의 만족도 관계 선형 분석"
 ---
 
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-    TeX: {
-      equationNumbers: {
-        autoNumber: "AMS"
-      }
-    },
-    tex2jax: {
-    inlineMath: [ ['$', '$'] ],
-    displayMath: [ ['$$', '$$'] ],
-    processEscapes: true,
-  }
-});
-MathJax.Hub.Register.MessageHook("Math Processing Error",function (message) {
-          alert("Math Processing Error: "+message[1]);
-	      });
-MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
-	        alert("Math Processing Error: "+message[1]);
-	      });
-</script>
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
 * 다뤄야 할 데이터: 2020년 기준 1인당 GDP와 국가별 삶의 만족도
 
 * 1인당 GDP와 삶의 만족도 사이의 관계를 분석해야 함.
