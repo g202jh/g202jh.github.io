@@ -224,31 +224,31 @@ for i in range(5):
 
 
     
-![png](output_16_0.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/Mnisthands/output_16_0.png)
     
 
 
 
     
-![png](output_16_1.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/Mnisthands/output_16_1.png)
     
 
 
 
     
-![png](output_16_2.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/Mnisthands/output_16_2.png)
     
 
 
 
     
-![png](output_16_3.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/Mnisthands/output_16_3.png)
     
 
 
 
     
-![png](output_16_4.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/Mnisthands/output_16_4.png)
     
 
 
@@ -261,7 +261,7 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/Mnisthands/output_17_0.png)
     
 
 
@@ -285,7 +285,7 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/Mnisthands/output_18_0.png)
     
 
 
@@ -308,7 +308,7 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/Mnisthands/output_19_0.png)
     
 
 
@@ -324,7 +324,7 @@ Image('/content/drive/MyDrive/융합소프트웨어�
 
 
     
-![png](output_21_0.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/Mnisthands/output_21_0.png)
     
 
 
@@ -382,7 +382,7 @@ Image('/content/drive/MyDrive/융합소프트웨어�
 
 
     
-![jpeg](output_26_0.jpg)
+![jpeg](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/Mnisthands/output_26_0.jpg)
     
 
 
@@ -454,7 +454,7 @@ Image('/content/drive/MyDrive/융합소프트웨어�
 
 
     
-![png](output_33_0.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/Mnisthands/output_33_0.png)
     
 
 
@@ -527,7 +527,7 @@ Image('/content/drive/MyDrive/융합소프트웨어�
 
 
     
-![png](output_37_0.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/Mnisthands/output_37_0.png)
     
 
 
@@ -606,7 +606,7 @@ plt.imshow(testi[0], cmap=plt.cm.binary)
 
 
     
-![png](output_46_1.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/Mnisthands/output_46_1.png)
     
 
 
@@ -634,7 +634,7 @@ plt.imshow(testi[1], cmap=plt.cm.binary)
 
 
     
-![png](output_48_1.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/Mnisthands/output_48_1.png)
     
 
 
@@ -674,7 +674,7 @@ plt.imshow(testi[-1], cmap=plt.cm.binary)
 
 
     
-![png](output_51_1.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/Mnisthands/output_51_1.png)
     
 
 
@@ -722,7 +722,7 @@ plt.imshow(my_son_img)
 
 
     
-![png](output_55_1.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/Mnisthands/output_55_1.png)
     
 
 
@@ -745,7 +745,7 @@ plt.imshow(my_son_img)
 
 
     
-![png](output_56_1.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/Mnisthands/output_56_1.png)
     
 
 
