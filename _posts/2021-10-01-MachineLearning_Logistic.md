@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "로지스틱 회귀"
+---
+
 ## 기본 설정
 
 
@@ -43,9 +48,9 @@ def save_data(fileName, arrayName, header=''):
     np.savetxt(fileName, arrayName, delimiter=',', header=header, comments='')
 ```
 
-# 과제
+# 문제
 
-## 과제 1
+##  1
 조기 종료를 사용한 배치 경사 하강법으로 로지스틱 회귀를 구현하라.
 단, 사이킷런을 전혀 사용하지 않아야 한다.
 
@@ -471,7 +476,7 @@ accuracy_score
 
 
 
-## 과제 2
+## 문제 2
 
 과제 1에서 구현된 로지스틱 회귀 알고리즘에 일대다(OvR) 방식을 적용하여 붓꽃에 대한 다중 클래스 분류 알고리즘을 구현하라. 단, 사이킷런을 전혀 사용하지 않아야 한다.
 
