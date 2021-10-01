@@ -1,16 +1,13 @@
-과 목 : 머신러닝
-
-학 번 : 2017250044
-
-이 름 : 정재현
-
-담당 교수님 : 이계식 교수님
+---
+layout: post
+title:  "선형회귀 모델과 k-최근접 이웃 모델"
+---
 
 * 다뤄야 할 데이터: 2020년 기준 1인당 GDP와 국가별 삶의 만족도
 
 * 1인당 GDP와 삶의 만족도 사이의 관계를 분석해야 함.
 
-* 모델: 선형회귀 모델과과 k-최근접 이웃 모델
+* 모델: 선형회귀 모델과 k-최근접 이웃 모델
 
 
 ```python
@@ -191,7 +188,7 @@ plt.show()
 
 
     
-![png](output_24_1.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/secondMachine/output1.png)
     
 
 
@@ -294,7 +291,7 @@ plt.show()
 
 
     
-![png](output_28_1.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/secondMachine/output2.png)
     
 
 
@@ -367,7 +364,7 @@ plt.show()
 
 
     
-![png](output_33_1.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/secondMachine/output3.png)
     
 
 
@@ -433,7 +430,7 @@ plt.show()
 
 
     
-![png](output_39_1.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/secondMachine/output4.png)
     
 
 
@@ -576,7 +573,7 @@ plt.show()
 
 
     
-![png](output_44_1.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/secondMachine/output5.png)
     
 
 
@@ -621,7 +618,7 @@ plt.show()
 
 
     
-![png](output_46_1.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/secondMachine/output6.png)
     
 
 
