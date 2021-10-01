@@ -115,10 +115,8 @@ Image('/content/drive/MyDrive/융합소프트웨어�
 
 
     
-![jpeg](output_13_0.jpg)
+![jpeg](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/Mnisthands/output_13_0.jpg)
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://user-images.githubusercontent.com/62230117/135559410-49435499-e1ac-4ddf-9d67-2e1ed56f5d2c.jpg)
 
 
 
