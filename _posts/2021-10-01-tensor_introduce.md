@@ -102,7 +102,7 @@ print(rank_3_tensor)
 축이 2개 이상인 텐서를 시각화하는 방법에는 여러 가지가 있다.
 
 <tr>
-  <th colspan="3">3축 텐서, 모양: <code>[3, 2, 5]</code> 
+  <th>3축 텐서, 모양: <code>[3, 2, 5]</code> 
 </tr>
 
 ![3-axis_numpy.png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/tensor_img/3-axis_numpy.png)
