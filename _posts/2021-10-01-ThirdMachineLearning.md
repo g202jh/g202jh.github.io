@@ -1,12 +1,8 @@
-# **2차 과제 : 데이터 전처리 과정 익히기**
+---
+layout: post
+title:  "데이터 전처리 과정 익히기"
+---
 
-과 목 : 머신러닝
-
-학 번 : 2017250044
-
-이 름 : 정재현
-
-담당 교수님 : 이계식 교수님
 
 # **기본 설정**
 
@@ -208,7 +204,7 @@ plt.show()
 
 
 ​    
-![png](output_11_0.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/thirdMachineData/output_11_0.png)
 ​    
 
 
@@ -232,7 +228,7 @@ housing["median_income"].hist()
 
 
 ​    
-![png](output_14_1.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/thirdMachineData/output_14_1.png)
 ​    
 
 
@@ -287,7 +283,7 @@ housing["income_cat"].hist()
 
 
 ​    
-![png](output_19_1.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/thirdMachineData/output_19_1.png)
 ​    
 
 
@@ -423,7 +419,7 @@ save_fig("scatter_matrix_plot")
 
 
 
-![png](output_36_1.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/thirdMachineData/output_36_1.png)
     
 
 
@@ -442,7 +438,7 @@ save_fig("income_vs_house_value_scatterplot")
 
 
 
-![png](output_38_1.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/thirdMachineData/output_38_1.png)
     
 
 
@@ -1955,7 +1951,7 @@ save_fig("income_vs_house_value_scatterplot")
 
 
 
-![png](output_120_1.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/thirdMachineData/output_120_1.png)
     
 
 
@@ -2140,7 +2136,7 @@ plt.show()
 
 
 ​    
-![png](output_129_0.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/thirdMachineData/output_129_0.png)
 ​    
 
 
@@ -2153,7 +2149,7 @@ plt.show()
 
 
 ​    
-![png](output_130_0.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/thirdMachineData/output_130_0.png)
 ​    
 
 
@@ -2166,7 +2162,7 @@ plt.show()
 
 
 ​    
-![png](output_131_0.png)
+![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/thirdMachineData/output_131_0.png)
 ​    
 
 
