@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "텐서(Tensor)란?"
+---
+
 # **텐서 소개**
 
 
