@@ -102,7 +102,7 @@ print(rank_3_tensor)
 축이 2개 이상인 텐서를 시각화하는 방법에는 여러 가지가 있다.
 
 <tr>
-  <th>3축 텐서, 모양: <code>[3, 2, 5]</code> 
+  <th colspan="3">3축 텐서, 모양: <code>[3, 2, 5]</code> </th>
 </tr>
 
 ![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/tensor_img/3-axis_numpy.png)
@@ -486,8 +486,9 @@ print(tf.reshape(rank_3_tensor, [-1]))
 
 3x2x5 텐서의 경우, 슬라이스가 혼합되지 않으므로 (3x2)x5 또는 3x (2x5)로 재구성하는 것이 합리적이다.
 
-<th colspan="3">몇 가지 좋은 reshapes</th>
 <tr>
+<th colspan="3">몇 가지 좋은 reshapes</th>
+</tr>
 
 ![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/tensor_img/reshape-before.png)
 ![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/tensor_img/reshape-good1.png)
@@ -533,9 +534,9 @@ except Exception as e:
     
     InvalidArgumentError: Input to reshape is a tensor with 30 values, but the requested shape requires a multiple of 7 [Op:Reshape]
     
-
-<th colspan="3">몇 가지 잘못된 reshapes</th>
 <tr>
+<th colspan="3">몇 가지 잘못된 reshapes</th>
+</tr>
 
 ![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/tensor_img/reshape-bad.png)
 ![png](https://raw.githubusercontent.com/g202jh/g202jh.github.io/master/assets/image/tensor_img/reshape-bad4.png)
